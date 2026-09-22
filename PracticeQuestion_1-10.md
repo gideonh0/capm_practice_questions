@@ -3659,4 +3659,688 @@ Here are questions 21-40 from Topic 1, Volume A, formatted as requested, with up
 
 ---
 
+**Question 163**: The following is a network diagram for a project. The total float for the project is how many days?
+*   A. 5
+*   B. 9
+*   C. 12
+*   D. 14
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+
+</details>
+
+**Question 164**: The following is a network diagram for a project. The free float for Activity E is how many days?
+*   A. 2
+*   B. 3
+*   C. 5
+*   D. 8
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 165**: Retreating from an actual or potential conflict or postponing the issue to be better prepared or to be resolved by others describes which of the five general techniques for managing conflict?
+*   A. Smooth/accommodate
+*   B. Withdraw/avoid
+*   C. Compromise/reconcile
+*   D. Force/direct
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 166**: Specification of both the deliverables and the processes is the focus of:
+*   A. Change control
+*   B. Configuration control
+*   C. Project monitoring and control
+*   D. Issue control
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 167**: Which output of Project Cost Management consists of quantitative assessments of the probable costs required to complete project work?
+*   A. Activity cost estimates
+*   B. Earned value management
+*   C. Cost management plan
+*   D. Cost baseline
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 168**: While processes in the Planning Process Group seek to collect feedback and define project documents to guide project work, organizational procedures dictate when the project planning:
+*   A. ends.
+*   B. begins.
+*   C. delays.
+*   D. deviates.
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 169**: A stakeholder expresses a need not known to the project manager. The project manager most likely missed a step in which stakeholder management process?
+*   A. Plan Stakeholder Management
+*   B. Identify Stakeholders
+*   C. Manage Stakeholder Engagement
+*   D. Control Stakeholder Engagement
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 170**: Skills necessary for project management such as motivating to provide encouragement; listening actively; persuading a team to perform an action; and summarizing, recapping, and identifying next steps are known as:
+*   A. organizational skills
+*   B. technical skills
+*   C. communication skills
+*   D. hard skills
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 171**: Which tools or techniques are used during the Close Project or Phase process?
+*   A. Reserve analysis and expert judgment
+*   B. Facilitation techniques and meetings
+*   C. Expert judgment and analytical techniques
+*   D. Performance reviews and meetings
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 172**: When a project is undertaken to reduce defects in a product or service, the objective of the project is to create a/an:
+*   A. improvement
+*   B. program
+*   C. result
+*   D. portfolio
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 173**: The degree of uncertainty an entity is willing to take on in anticipation of a reward is known as its risk:
+*   A. management
+*   B. response
+*   C. tolerance
+*   D. appetite
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 174**: The zero duration of milestones in project planning occurs because milestones:
+*   A. Are unpredictable and challenge the Plan Schedule Management process.
+*   B. Occur at random times in the project plans.
+*   C. Represent a moment in time such as a significant project point or event.
+*   D. Represent both significant and insignificant points in the project and are difficult to anticipate.
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 175**: Which type of graphic is displayed below? (Refers to a Work Breakdown Structure diagram in the source)
+*   A. Work breakdown structure
+*   B. Context diagram
+*   C. Control chart
+*   D. Pareto diagram
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 176**: An example of a group decision-making technique is:
+*   A. nominal group technique
+*   B. majority
+*   C. affinity diagram
+*   D. multi-criteria decision analysis
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 177**: Which tool or technique used in the Control Procurements process can be conducted during the execution of the project to verify compliance with deliverables?
+*   A. Procurement documents
+*   B. Inspection and audits
+*   C. Estimate budget
+*   D. Risk register
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 178**: Job satisfaction, challenging work, and sufficient financial compensation are values related to which interpersonal skill?
+*   A. Influencing
+*   B. Motivation
+*   C. Negotiation
+*   D. Trust building
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 179**: The following is a network diagram for a project. The shortest non-critical path for the project is how many days in duration? (Refers to a network diagram in the source)
+*   A. 10
+*   B. 12
+*   C. 14
+*   D. 16
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 180**: The following is a network diagram for a project. The critical path for the project is how many days in duration? (Refers to a network diagram in the source)
+*   A. 10
+*   B. 12
+*   C. 14
+*   D. 17
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 181**: The component of the human resource management plan that includes ways in which team members can obtain certifications that support their ability to benefit the project is known as:
+*   A. recognition and rewards
+*   B. compliance
+*   C. staff acquisition
+*   D. training needs
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 182**: Stakeholders can be identified in later stages of the project because the Identify Stakeholders process should be:
+*   A. Continuous
+*   B. Discrete
+*   C. Regulated
+*   D. Arbitrary
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 183**: A graphic display of project team members and their reporting relationships is known as a:
+*   A. Resource calendar.
+*   B. Project organization chart.
+*   C. Resource breakdown structure (RBS).
+*   D. Responsibility assignment matrix (RAM).
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 184**: Which item is a cost of conformance?
+*   A. Training
+*   B. Liabilities
+*   C. Lost business
+*   D. Scrap
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 185**: Which key interpersonal skill of a project manager is defined as the strategy of sharing power and relying on interpersonal skills to convince others to cooperate toward common goals?
+*   A. Collaboration
+*   B. Negotiation
+*   C. Decision making
+*   D. Influencing
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 186**: Activity cost estimates and the project schedule are inputs to which Project Cost Management process?
+*   A. Estimate Costs
+*   B. Control Costs
+*   C. Plan Cost Management
+*   D. Determine Budget
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 187**: In project management, a temporary project can be:
+*   A. Completed without planning
+*   B. A routine business process
+*   C. Long in duration
+*   D. Ongoing to produce goods
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 188**: Which document in the project management plan can be updated in the Plan Procurement Management process?
+*   A. Budget estimates
+*   B. Risk matrix
+*   C. Requirements documentation
+*   D. Procurement documents
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 189**: Which type of probability distribution is used to represent uncertain events such as the outcome of a test or a possible scenario in a decision tree?
+*   A. Uniform
+*   B. Continuous
+*   C. Discrete
+*   D. Linear
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 190**: Which change request is an intentional activity that realigns the performance of the project work with the project management plan?
+*   A. Update
+*   B. Preventive action
+*   C. Defect repair
+*   D. Corrective action
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 191**: Using parametric estimating, if an assigned resource is capable of producing 120 units per hour, how many hours are required to produce 12,000 units?
+*   A. 100
+*   B. 120
+*   C. 1,000
+*   D. 1,200
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 192**: Which stakeholder approves a project's result?
+*   A. Customer
+*   B. Sponsor
+*   C. Seller
+*   D. Functional manager
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 193**: Which process involves determining, documenting, and managing stakeholders' needs and requirements to meet project objectives?
+*   A. Collect Requirements
+*   B. Plan Scope Management
+*   C. Define Scope
+*   D. Define Activities
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 194**: Plan Communications Management develops an approach and plan for project communications based on stakeholders' needs and requirements and:
+*   A. Available organizational assets
+*   B. Project staff assignments
+*   C. Interpersonal skills
+*   D. Enterprise environmental factors
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 195**: Perform Integrated Change Control is the process of:
+*   A. Reviewing, approving, and managing all change requests
+*   B. Facilitating change management, manuals, or automation tools
+*   C. Comparing actual results with planned results in order to expand or change a project
+*   D. Documenting changes according to the change control system by the change control board
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 196**: When painting a bedroom, preparing the walls can be done while the paint is being chosen. This is an example of a:
+*   A. lead
+*   B. lag
+*   C. mandatory dependency
+*   D. internal dependency
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 197**: Which action is included in the Control Costs process?
+*   A. Identify how the project costs will be planned, structured, and controlled
+*   B. Determine policies, objectives, and responsibilities to satisfy stakeholder needs
+*   C. Develop an approximation of the monetary resources needed to complete project activities
+*   D. Monitor cost performance to isolate and understand variances from the approved cost baseline
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 198**: What is the risk rating if the probability of occurrence is 0.30 and the impact if it does occur is moderate (0.20)?
+*   A. 0.03
+*   B. 0.06
+*   C. 0.10
+*   D. 0.50
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 199**: A complete set of concepts, terms, and activities that make up an area of specialization is known as:
+*   A. a Knowledge Area
+*   B. a Process Group
+*   C. program management
+*   D. portfolio management
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{lightgreen}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
+**Question 200**: The risk response strategy in which the project team acts to reduce the probability of occurrence or impact of a risk is known as:
+*   A. exploit
+*   B. avoid
+*   C. mitigate
+*   D. share
+
+<details>
+  <summary>Analysis</summary>
+  
+  | Option | Description |
+  | :--- | :--- |
+  | $${\color{red}\text{A}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{B}}$$ | Explanation not provided in the source. |
+  | $${\color{lightgreen}\text{C}}$$ | Explanation not provided in the source. |
+  | $${\color{red}\text{D}}$$ | Explanation not provided in the source. |
+  
+</details>
+
 
